@@ -42,7 +42,7 @@ Antes de rodar o projeto, é necessário configurar o ambiente e instalar as dep
 Clone o repositório ou baixe os arquivos do projeto.
 
 ```bash
-git clone https://github.com/seu-usuario/automacao-alerta-python.git
+git clone [https://github.com/seu-usuario/automacao-alerta-python.git](https://github.com/francemy/Alertify.git)
 cd automacao-alerta-python
 ```
 
